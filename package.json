@@ -1,7 +1,7 @@
 {
   "name": "create-infoobly",
   "description": "description",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Mysticmike60t <cadenmfink@gmail.com>",
   "bin": "src/cli.js",
   "files": [
